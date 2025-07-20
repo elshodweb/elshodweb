@@ -6,7 +6,7 @@ I'm a backend developer from Uzbekistan 🇺🇿 passionate about building scala
 - 🌱 Learning advanced system design and improving my English for global opportunities
 - 💼 Open to remote backend positions (full-time or freelance)
 - 💬 Ask me about NestJS, Prisma, or AI web integrations
-- 📫 Contact me: [@elshodweb](https://t.me/elshodweb)
+- 📫 Contact me: [Telegram](https://t.me/elshodbek_t) or [Email](https://mailto:elshodweb@gmail.com)
 
 ---
 
