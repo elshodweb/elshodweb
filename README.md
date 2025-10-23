@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elshod Tukhtamurodov
 
-I'm a backend developer from Uzbekistan 🇺🇿 passionate about building scalable APIs and smart systems using **Node.js**, **NestJS**, **MongoDB**, **PostgreSQL**, **Prisma**, and **Docker**.
+I'm a backend developer from Uzbekistan passionate about building scalable APIs and smart systems using **Node.js**, **NestJS**, **MongoDB**, **PostgreSQL**, **Prisma**, and **Docker**.
 
 - 🔭 Currently working on web apps, microservices, and crm systems
 - 🌱 Learning advanced system design and improving my English for global opportunities
