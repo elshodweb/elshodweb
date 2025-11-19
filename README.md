@@ -19,9 +19,3 @@ I'm a backend developer from Uzbekistan passionate about building scalable APIs 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 📌 Pinned Projects
-
-📂 Projects will be shown below — check out my NestJS APIs, quiz app, and dashboard.
