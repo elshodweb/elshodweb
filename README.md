@@ -1,21 +1,29 @@
-# 👋 Hi, I'm Elshod Tukhtamurodov
+# Elshod Tukhtamurodov
 
-I'm a Full-stack developer from Uzbekistan passionate about building scalable APIs and smart systems using **Node.js**, **NestJS**, **MongoDB**, **PostgreSQL**, **Prisma**, **React.js** and **Docker**.
+Backend developer based in Tashkent, Uzbekistan. I build APIs, CRM systems, and integrations with Node.js and TypeScript, and use React and Next.js for the interfaces around them.
 
-- 🔭 Currently working on web apps, microservices, and crm systems
-- 🌱 Learning advanced system design and improving my English for global opportunities
-- 💼 Open to remote backend positions (full-time or freelance)
-- 💬 Ask me about NestJS, Prisma, or AI web integrations
-- 📫 Contact me: [Telegram](https://t.me/elshods) or [Email](mailto:elshodweb@gmail.com)
+Open to remote backend roles and freelance projects.
 
----
+## Selected projects
 
-## 🛠️ Tech Stack
+| Project | Focus |
+| --- | --- |
+| **[LeadFilter](https://github.com/elshodweb/leadFilter)** · [Frontend](https://github.com/elshodweb/filter-leads) | Lead qualification, Instagram integration, operator chats, and organization-scoped CRM data. NestJS, MongoDB, Socket.IO, Next.js. |
+| **[Restaurant cloud & local APIs](https://github.com/elshodweb/monorepo)** | Local server activation, signed requests, and shared TypeScript packages across two NestJS services. |
+| **[Passport Scanner](https://github.com/elshodweb/passport-scanner)** | Extracting document fields from images with OpenAI, with MongoDB records and MinIO file storage. |
+| **[Aloqa Bot](https://github.com/elshodweb/aloqa-bot)** | Connecting Telegram operator replies to a client chat through WebSocket messaging. |
+| **[Docs Chain](https://github.com/elshodweb/docs-chain)** | Document workflows with authentication, approval, and action history. |
+| **[Control Business](https://github.com/elshodweb/control-business)** | Business dashboard for products, sales, debts, car services, and reporting. |
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## Technical focus
+
+- **Backend:** TypeScript, Node.js, NestJS, Express, REST APIs, WebSockets.
+- **Data:** PostgreSQL, MongoDB, Prisma, TypeORM.
+- **Interfaces:** React, Next.js.
+- **Deployment:** Docker and Docker Compose.
+
+I am continuing to study system design. My [DSA repository](https://github.com/elshodweb/dsa) collects algorithm exercises and data structures.
+
+## Contact
+
+[Email](mailto:elshodweb@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elshodweb/)
