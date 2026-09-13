@@ -22,7 +22,7 @@ Open to remote backend roles and freelance projects.
 - **Interfaces:** React, Next.js.
 - **Deployment:** Docker and Docker Compose.
 
-I am continuing to study system design. My [DSA repository](https://github.com/elshodweb/dsa) collects algorithm exercises and data structures.
+I am continuing to study system design. My [LeetCode profile](https://leetcode.com/u/elshodweb/) has 100+ solved problems.
 
 ## Contact
 
